@@ -1,6 +1,8 @@
-# test1
 
-Lal Phool, Neela phool, Sir humare Beautifull!!!
+class example {
+public static void main (String args[]){
+        System.out.println{"hello world"};
+        }
+}
 
-hello
-
+hello main
